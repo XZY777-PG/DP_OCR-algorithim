@@ -54,13 +54,26 @@ A是一个针对自动装卸货而开发的全流程AI项目，目的在于
 ## ⭐ License
 This project is licensed under the Apache 2.0 License - see the LICENSE file(暂时未放进仓库) for details.
 
-## 🤝 Contribution  
-Contributions are welcome! You can make your contributions via only 5 steps.  
-Step1: Fork the repository  
-Step2: Create your feature branch (git checkout -b feature/AmazingFeature)  
-Step3: Commit your changes (git commit -m 'Add some AmazingFeature')  
-Step4：Push to the branch (git push origin feature/AmazingFeature)  
-Step5: Open a Pull Request  
+## 🤝 Contribution    
+Contributions are welcome! Please follow these steps to contribute:  
+Fork the repository by clicking on the "Fork" button at the top right corner of the repository page.  
+Clone your forked repository to your local machine:  
+```
+git clone https://github.com/your-username/DP_OCR-algorithim.git
+```
+Create a new branch for your feature or bugfix:  
+```
+git checkout -b feature/AmazingFeature
+```
+Make your changes and commit them with a descriptive commit message:
+```
+git commit -m 'Add some AmazingFeature'
+```
+Push your changes to your forked repository:
+```
+git push origin feature/AmazingFeature
+```
+Open a Pull Request in the original repository: https://github.com/XZY777-PG/DP_OCR-algorithim and provide a detailed description of your changes.
 
 ## ✉️ Contact us  
 Business Leader - Alan Liu - liu.zi@pg.com  
