@@ -1,18 +1,18 @@
-# P&G Dead Pile unloading(loading) TechDocs 📚
-简介：  
-安装：  
-使用说明：  
-Contribution  
+# 📚 P&G Dead Pile unloading(loading) TechDocs 
 
+## 🏗️ Code structue overview
+
+## 📘 Get Started  
+### 1️⃣ **Start in the _Organization_ Section**  
+### 1️⃣ **Start in the _Organization_ Section**  
+### 1️⃣ **Start in the _Organization_ Section**  
  
-💡  
-⭐  
 
-License
+## ⭐ License
 
-🤝 Contribution  
+## 🤝 Contribution  
 
-✉️ Contact us  
+## ✉️ Contact us  
 Alan Liu(liu.zi@pg.com)  
 Troy Gao(gao.y.32@pg.com)  
 Gan Mi(gan.m.5@pg.com)
