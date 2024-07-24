@@ -2,6 +2,7 @@
 ![Static Badge](https://img.shields.io/badge/https%3A%2F%2Fgithub.com%2FXZY777-PG%2FDP_OCR-algorithim%2F)
 ## Introduction
 DP_OCR-algorithim is an optical character recognition (OCR) algorithm designed to extract text from images with high accuracy. This project aims to provide a robust and efficient OCR solution for various applications such as document scanning, image-to-text conversion, and more.
+A是一个针对自动装卸货而开发的全流程AI项目，目的在于
 ## 🏗️ Code structue overview  
 ├── .gitignore  --------------------- git配置文件  
 ├── apprcc_rc.py -------------------- PyQt配置文件  
@@ -62,8 +63,9 @@ Step4：Push to the branch (git push origin feature/AmazingFeature)
 Step5: Open a Pull Request
 
 ## ✉️ Contact us  
-Alan Liu (liu.zi@pg.com)  
-Troy Gao (gao.y.32@pg.com)  
-Gan Mi (gan.m.5@pg.com)  
-Xu Zhiyuan (xu.z.29@pg.com)  
-...
+Business Leader - Alan Liu - liu.zi@pg.com  
+Project Manager - Jerry Xu - xu.h.14@pg.com
+Project Manager - Troy Gao - gao.y.32@pg.com  
+Technical Support - Lane Chen - chen.la@pg.com
+Technical Support - Gan Mi - gan.m.5@pg.com
+Technical Support - Xu Zhiyuan - xu.z.29@pg.com
