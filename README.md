@@ -34,6 +34,22 @@ Welcome to
 ### 3️⃣ 测试（生产）
 
 ## 🔎 update
+2024-07-15 工作  
+
+桌面系统 draft  
+2024-07-16  
+
+添加手动输入文件，进行推理代码  
+发现问题--- tensorRT 版本与agx orin的版本不一致 tensorrt eng 文件不兼容  
+2024 07-17  
+
+添加图片显示  
+2024 07-18  
+ 
+添加相机支持  
+2024 07-19  
+
+继续添加相机相关路径 修改界面 添加模式选择 添加当前模式显示 添加相机自动搜索功能  
 
 ## ⭐ License
 This project is licensed under the Apache 2.0 License - see the LICENSE file(暂时未放进仓库) for details.
