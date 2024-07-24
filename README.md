@@ -33,12 +33,16 @@ Welcome to
 ### 2️⃣ 训练
 ### 3️⃣ 测试（生产）
 
+## 🔎 update
+
 ## ⭐ License
+This project is licensed under the Apache 2.0 License - see the LICENSE file(暂时未放进仓库) for details.
 
 ## 🤝 Contribution  
 
+
 ## ✉️ Contact us  
-Alan Liu (liu.zi@pg.com)  
+Alan Liu (liu.zi@pg.com)
 Troy Gao (gao.y.32@pg.com)  
 Gan Mi (gan.m.5@pg.com)  
 Xu Zhiyuan (xu.z.29@pg.com)
