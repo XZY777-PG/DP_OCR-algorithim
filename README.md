@@ -64,8 +64,8 @@ Step5: Open a Pull Request
 
 ## ✉️ Contact us  
 Business Leader - Alan Liu - liu.zi@pg.com  
-Project Manager - Jerry Xu - xu.h.14@pg.com
+Project Manager - Jerry Xu - xu.h.14@pg.com  
 Project Manager - Troy Gao - gao.y.32@pg.com  
-Technical Support - Lane Chen - chen.la@pg.com
-Technical Support - Gan Mi - gan.m.5@pg.com
-Technical Support - Xu Zhiyuan - xu.z.29@pg.com
+Technical Support - Lane Chen - chen.la@pg.com  
+Technical Support - Gan Mi - gan.m.5@pg.com  
+Technical Support - Xu Zhiyuan - xu.z.29@pg.com  
