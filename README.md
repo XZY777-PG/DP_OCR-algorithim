@@ -10,52 +10,14 @@
 ├── eng_folder/  
 │   ├── start_infer_test.jpeg  
 ├── icon/  
-│   ├── background.jpg  
-│   ├── button-off.png  
-│   ├── button-on.png  
-│   ├── conan.png  
-│   ├── conan_backup.png  
-│   ├── doctor.png  
-│   ├── evil.png  
-│   ├── 下拉_白色.png  
-│   ├── 停止.png  
-│   ├── 关闭.png  
-│   ├── 图片1.png  
-│   ├── 图片1_backup.png  
-│   ├── 圆.png  
-│   ├── 实时视频流解析.png  
-│   ├── 打开.png  
-│   ├── 摄像头关.png  
-│   ├── 摄像头开.png  
-│   ├── 数据探索.png  
-│   ├── 暂停.png  
-│   ├── 最大化.png  
-│   ├── 最小化.png  
-│   ├── 正方形.png  
-│   ├── 笑脸.png  
-│   ├── 箭头_列表展开.png  
-│   ├── 箭头_列表收起.png  
-│   ├── 终止.png  
-│   ├── 背景.png  
-│   ├── 表情.png  
-│   ├── 赞停.png  
-│   ├── 运行.png  
-│   ├── 还原.png  
 ├── main.py  
 ├── main_winodw/  
 │   ├── win.py  
-│   ├── __pycache__/  
-│   │   ├── win.cpython-38.pyc  
 ├── models/  
 │   ├── common.py  
 │   ├── common_runtime.py  
 │   ├── image_batcher.py  
 │   ├── ocrModule.py  
-│   ├── __pycache__/  
-│   │   ├── common.cpython-38.pyc  
-│   │   ├── common_runtime.cpython-38.pyc  
-│   │   ├── image_batcher.cpython-38.pyc  
-│   │   ├── ocrModule.cpython-38.pyc  
 ├── MouseLabel.py  
 ├── ocrModule.py  
 ├── Readme.md  
@@ -63,9 +25,7 @@
 ├── utils/  
 │   ├── capnums.py  
 │   ├── CustomMessageBox.py  
-├── __pycache__/  
-│   ├── apprcc_rc.cpython-38.pyc  
-│   ├── MouseLabel.cpython-38.pyc  
+
 
 
 ## 📘 Get Started  
