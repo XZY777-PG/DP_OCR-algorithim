@@ -1,12 +1,8 @@
 # 📚 P&G Dead Pile unloading(loading) TechDocs 
-![Build Status](https://img.shields.io/github/actions/workflow/status/XZY777-PG/DP_OCR-algorithim/ci.yml)
-![License](https://img.shields.io/github/license/XZY777-PG/DP_OCR-algorithim)
-![Version](https://img.shields.io/github/v/release/XZY777-PG/DP_OCR-algorithim)
+![Static Badge](https://img.shields.io/badge/https%3A%2F%2Fgithub.com%2FXZY777-PG%2FDP_OCR-algorithim%2F)
 
 ## Introduction
-
 DP_OCR-algorithim is an optical character recognition (OCR) algorithm designed to extract text from images with high accuracy. This project aims to provide a robust and efficient OCR solution for various applications such as document scanning, image-to-text conversion, and more.
-
 
 ## 🏗️ Code structue overview  
 ├── .gitignore  --------------------- git配置文件  
