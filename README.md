@@ -2,7 +2,6 @@
 ![Static Badge](https://img.shields.io/badge/https%3A%2F%2Fgithub.com%2FXZY777-PG%2FDP_OCR-algorithim%2F)
 ## Introduction
 DP_OCR-algorithim is an optical character recognition (OCR) algorithm designed to extract text from images with high accuracy. This project aims to provide a robust and efficient OCR solution for various applications such as document scanning, image-to-text conversion, and more.
-A是一个针对自动装卸货而开发的全流程AI项目，目的在于
 ## 🏗️ Code structue overview  
 ├── .gitignore  --------------------- git配置文件  
 ├── apprcc_rc.py -------------------- PyQt配置文件  
@@ -29,28 +28,44 @@ A是一个针对自动装卸货而开发的全流程AI项目，目的在于
 │   ├── capnums.py ------------------ 摄像头参数获取？  
 │   ├── CustomMessageBox.py --------- ui事件设置  
 ## 📘 Get Started  
-### 1️⃣ 安装
-### 2️⃣ 训练
-### 3️⃣ 测试（生产）
+### 1️⃣ Install
+Clone the repository
+```
+git clone git@github.com:AbletiveSkye/PG-Dead-Pile-OCR.git
+```
+load your path to the project
+```
+!cd (yourpath to PG-Dead-Pile-OCR)
+```
+Download the enssential environments for the algorithim.
+```
+!pip install requirements.txt
+```
+Compile your code on the local environment
+```
+!python setup.py
+```
+Run the graphic page
+```
+!python main.py
+```
+
+打开主页面
+### 2️⃣ 训练（开发环境）
+### 3️⃣ 测试（生产环境）
 
 ## 🔎 update
 2024-07-15  
-
-桌面系统 draft  
+桌面系统 draft    
 2024-07-16  
-
 添加手动输入文件，进行推理代码  
 发现问题--- tensorRT 版本与agx orin的版本不一致 tensorrt eng 文件不兼容  
 2024 07-17  
-
-添加图片显示  
+添加图片显示    
 2024 07-18  
- 
-添加相机支持  
+添加相机支持    
 2024 07-19  
-
 继续添加相机相关路径 修改界面 添加模式选择 添加当前模式显示 添加相机自动搜索功能  
-
 ## ⭐ License
 This project is licensed under the Apache 2.0 License - see the LICENSE file(暂时未放进仓库) for details.
 
