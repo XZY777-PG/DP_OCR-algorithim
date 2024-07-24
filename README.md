@@ -55,12 +55,12 @@ A是一个针对自动装卸货而开发的全流程AI项目，目的在于
 This project is licensed under the Apache 2.0 License - see the LICENSE file(暂时未放进仓库) for details.
 
 ## 🤝 Contribution  
-Contributions are welcome! You can make your contributions via only 5 steps.
-Step1: Fork the repository
-Step2: Create your feature branch (git checkout -b feature/AmazingFeature)
-Step3: Commit your changes (git commit -m 'Add some AmazingFeature')
-Step4：Push to the branch (git push origin feature/AmazingFeature)
-Step5: Open a Pull Request
+Contributions are welcome! You can make your contributions via only 5 steps.  
+Step1: Fork the repository  
+Step2: Create your feature branch (git checkout -b feature/AmazingFeature)  
+Step3: Commit your changes (git commit -m 'Add some AmazingFeature')  
+Step4：Push to the branch (git push origin feature/AmazingFeature)  
+Step5: Open a Pull Request  
 
 ## ✉️ Contact us  
 Business Leader - Alan Liu - liu.zi@pg.com  
