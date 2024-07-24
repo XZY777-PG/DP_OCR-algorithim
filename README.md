@@ -50,7 +50,6 @@ Run the graphic page
 !python main.py
 ```
 
-打开主页面
 ### 2️⃣ 训练（开发环境）
 ### 3️⃣ 测试（生产环境）
 
