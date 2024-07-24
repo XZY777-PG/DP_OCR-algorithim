@@ -90,9 +90,9 @@ git push origin feature/AmazingFeature
 Open a Pull Request in the original repository: https://github.com/XZY777-PG/DP_OCR-algorithim and provide a detailed description of your changes.
 
 ## ✉️ Contact us  
-Business Leader - Alan Liu - liu.zi@pg.com  
-Project Manager - Jerry Xu - xu.h.14@pg.com  
-Project Manager - Troy Gao - gao.y.32@pg.com  
-Technical Support - Lane Chen - chen.la@pg.com  
-Technical Support - Gan Mi - gan.m.5@pg.com  
-Technical Support - Xu Zhiyuan - xu.z.29@pg.com  
+Alan Liu - liu.zi@pg.com  
+Jerry Xu - xu.h.14@pg.com  
+Troy Gao - gao.y.32@pg.com  
+Lane Chen - chen.la@pg.com  
+Gan Mi - gan.m.5@pg.com  
+Xu Zhiyuan - xu.z.29@pg.com  
