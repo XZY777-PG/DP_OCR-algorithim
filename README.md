@@ -1,4 +1,7 @@
 # 📚 P&G Dead Pile unloading(loading) TechDocs 
+![Build Status](https://img.shields.io/github/actions/workflow/status/username/repository/ci.yml)
+![License](https://img.shields.io/github/license/username/repository)
+![Version](https://img.shields.io/github/v/release/username/repository)
 Welcome to 
 
 
