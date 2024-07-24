@@ -54,11 +54,16 @@ DP_OCR-algorithim is an optical character recognition (OCR) algorithm designed t
 This project is licensed under the Apache 2.0 License - see the LICENSE file(暂时未放进仓库) for details.
 
 ## 🤝 Contribution  
-
+Contributions are welcome! You can make your contributions via only 5 steps.
+Step1: Fork the repository
+Step2: Create your feature branch (git checkout -b feature/AmazingFeature)
+Step3: Commit your changes (git commit -m 'Add some AmazingFeature')
+Step4：Push to the branch (git push origin feature/AmazingFeature)
+Step5: Open a Pull Request
 
 ## ✉️ Contact us  
 Alan Liu (liu.zi@pg.com)  
 Troy Gao (gao.y.32@pg.com)  
 Gan Mi (gan.m.5@pg.com)  
 Xu Zhiyuan (xu.z.29@pg.com)  
-.......
+...
